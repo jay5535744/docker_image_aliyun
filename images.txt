@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-scllovewkf/opencalib
+openexplorer/ai_toolchain_ubuntu_20_j5_gpu
