@@ -4,4 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-diyer22/tiny_cv2:4.5.5-py38-ubuntu20.04
+#diyer22/tiny_cv2:4.5.5-py38-ubuntu20.04
+osrf/ros:humble-desktop-full
